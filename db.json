@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 10,
+    "totalResults": 2,
     "articles": [
         {
             "source": {
@@ -28,6 +28,5 @@
             "publishedAt": "2024-05-08T15:01:51Z",
             "content": "Good news, crypto founders: Venture capital activity is picking up in your sector after falling to multi-year lows in late 2023."
         },
-          
     ]
 }
