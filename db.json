@@ -3,16 +3,10 @@
   "totalResults": 2,
   "articles": [
     {
-      "id": 1,
-      "author": "Lauren Forristal",
-      "title": "Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch",
-      "description": "Autonomous, AI-based players are coming to a gaming experience near you, and a new startup"
+      "id": 1, "author": "Lauren Forristal", "title": "Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch", "description": "Autonomous, AI-based players are coming to a gaming experience near you, and a new startup"
     },
     {
-      "id": 2,
-      "author": "Alex Wilhelm and Theresa Loconsolo",
-      "title": "$450M for Noname, two billion-dollar rounds, and good news for crypto startups | TechCrunch",
-      "description": "This morning on Equity, not only do we have good news for crypto founders."
+      "id": 2, "author": "Alex Wilhelm and Theresa Loconsolo", "title": "$450M for Noname, two billion-dollar rounds, and good news for crypto startups | TechCrunch", "description": "This morning on Equity, not only do we have good news for crypto founders."
     }
   ]
 }
